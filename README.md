@@ -172,7 +172,7 @@ currently_building: Multi-agent pipelines that think, not just execute
 <div align="center">
 
 <a href="https://github.com/Vishwazeer">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishwazeer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2471A3&icon_color=2471A3&text_color=C9D1D9&ring_color=2471A3" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishwazeer&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2471A3&icon_color=2471A3&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/Vishwazeer">
   <img width="49%" src="https://streak-stats.demolab.com?user=Vishwazeer&theme=tokyonight&hide_border=true&background=0D1117&ring=2471A3&fire=2471A3&currStreakLabel=2471A3&sideLabels=C9D1D9&dates=566573" />
@@ -181,7 +181,7 @@ currently_building: Multi-agent pipelines that think, not just execute
 <br/>
 
 <a href="https://github.com/Vishwazeer">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vishwazeer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2471A3&text_color=C9D1D9" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwazeer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2471A3&text_color=C9D1D9" />
 </a>
 
 </div>
