@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:2471A3&height=220&section=header&text=Vishwajeet%20Pisal%20Deshmukh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20%26%20Agentic%20Systems%20Engineer%20%7C%20On-Device%20Inference%20%7C%20Data%20Science&descSize=16&descAlignY=55&descColor=D5D8DC" width="100%"/>
+# 👋 Hey, I'm Vishwajeet Pisal Deshmukh
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2471A3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+9-Agent+AI+Pipelines+%F0%9F%A6%88;Deterministic+Clinical+Rules+Engines+%F0%9F%92%8A;On-Device+Inference+in+Zero-Network+Zones+%F0%9F%93%B1;Work-Stealing+Thread+Pools+%E2%9A%A1;GFS-Inspired+Distributed+Storage+%F0%9F%97%84%EF%B8%8F" alt="Typing SVG" /></a>
+### `AI/ML Engineer` · `Data Scientist` · `Full-Stack Developer`
 
-<!-- Social Badges -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2471A3&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Data+Science+%7C+Predictive+Modeling+%7C+EDA+%F0%9F%93%8A;AI%2FML+Engineer+%7C+LLMs+%7C+Agentic+Systems+%F0%9F%A4%96;Full-Stack+Dev+%7C+React+%7C+Node+%7C+Flutter+%F0%9F%9A%80;On-Device+Inference+%7C+Clinical+AI+Safety+%F0%9F%A7%AC" alt="Typing SVG" /></a>
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeet-ppd)
@@ -26,10 +25,10 @@ location: Pune, Maharashtra, India
 education: B.Tech CSE (Health Informatics) @ VIT Bhopal | CGPA: 8.19/10
 role: SDE Intern @ Innothoughts Systems Pvt. Ltd.
 focus:
-  - Agentic AI & Multi-Agent Systems
-  - On-Device ML Inference
-  - Clinical AI Safety & Healthcare Tech
-  - High-Performance Concurrent Systems
+  - Data Science & Predictive Modeling
+  - AI/ML & Agentic Systems
+  - Full-Stack Web & Mobile Development
+  - On-Device Inference & Clinical AI Safety
 currently_building: Multi-agent pipelines that think, not just execute
 ```
 
@@ -250,10 +249,6 @@ currently_building: Multi-agent pipelines that think, not just execute
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B4F72,100:2471A3&height=120&section=footer" width="100%"/>
-
 **"Every line of code should earn its place."**
-
-<sub>💙 Built with obsessive attention to detail</sub>
 
 </div>
