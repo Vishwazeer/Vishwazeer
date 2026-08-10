@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeet-ppd)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajeetpisaldeshmukh17@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishwazeer)
-![Profile Views](https://komarev.com/ghpvc/?username=Vishwazeer&color=2471A3&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FVishwazeer%2Fprofile&query=%24.value&label=Profile+Views&color=2471A3&style=for-the-badge)
 
 </div>
 
@@ -23,7 +23,7 @@
 name: Vishwajeet Pisal Deshmukh
 location: Pune, Maharashtra, India
 education: B.Tech CSE (Health Informatics) @ VIT Bhopal | CGPA: 8.19/10
-role: SDE Intern @ Innothoughts Systems Pvt. Ltd.
+
 focus:
   - Data Science & Predictive Modeling
   - AI/ML & Agentic Systems
@@ -171,19 +171,25 @@ currently_building: Multi-agent pipelines that think, not just execute
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishwazeer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2471A3&icon_color=2471A3&text_color=C9D1D9&ring_color=2471A3" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Vishwazeer&theme=tokyonight&hide_border=true&background=0D1117&ring=2471A3&fire=2471A3&currStreakLabel=2471A3&sideLabels=C9D1D9&dates=566573" />
+<a href="https://github.com/Vishwazeer">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishwazeer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2471A3&icon_color=2471A3&text_color=C9D1D9&ring_color=2471A3" />
+</a>
+<a href="https://github.com/Vishwazeer">
+  <img width="49%" src="https://streak-stats.demolab.com?user=Vishwazeer&theme=tokyonight&hide_border=true&background=0D1117&ring=2471A3&fire=2471A3&currStreakLabel=2471A3&sideLabels=C9D1D9&dates=566573" />
+</a>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwazeer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2471A3&text_color=C9D1D9" />
+<a href="https://github.com/Vishwazeer">
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vishwazeer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2471A3&text_color=C9D1D9" />
+</a>
 
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwazeer&bg_color=0D1117&color=2471A3&line=2471A3&point=D5D8DC&area=true&area_color=1B4F72&hide_border=true)](https://github.com/Vishwazeer)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwazeer&bg_color=0D1117&color=2471A3&line=2471A3&point=D5D8DC&area=true&area_color=1B4F72&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/Vishwazeer)
 
 </div>
 
